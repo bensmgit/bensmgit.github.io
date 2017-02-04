@@ -11,6 +11,11 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
+	  
+	  	<p>
+		  {{ post.content }}
+		</p>
+	  
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <!-- The posts don't really have titles. I want only the content to show.
@@ -18,9 +23,6 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>-->
 		
-		<p>
-		  {{ post.content }}
-		</p>
       </li>
     {% endfor %}
   </ul>
