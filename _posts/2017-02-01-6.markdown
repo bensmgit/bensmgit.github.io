@@ -3,5 +3,3 @@ layout: post
 title:  "Welcome to Jekyll!"
 ---
 At some point, no additional theories and observations of true patterns will increase the accuracy of the prediction of a particular instance of behavior, assuming an element of random is real. 
-
-I have not yet reached that point. 
