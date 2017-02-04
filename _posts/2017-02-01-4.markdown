@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+It's not that I care what you think about me; my concern is that your perception of me is not in tune with reality. I care not that you think I am rude--I care that you err in your assessment. It is Truth I adore, and not my reputation.

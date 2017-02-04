@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcommme to Jekyll!"
+---
+What if everything printed or said had an asterisks after it? People would begin to question things a lot more.* And that wouldn’t be a bad thing.**
+
+*Theoretically.
+
+**It might be a bad thing.

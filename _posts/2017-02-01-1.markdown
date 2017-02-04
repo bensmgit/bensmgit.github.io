@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+INTJs aren’t ALL evil masterminds. Some of us are not yet masters.

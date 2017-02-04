@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+I’m just an ordinary guy, trying to achieve, at least, the greatest of my objectives. If I’m nice along the way it’s not my fault–understood?
