@@ -13,9 +13,10 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
+        <!-- The posts don't really have titles. I want only the content to show.
+		<h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
+        </h2>-->
 		
 		<p>
 		  {{ post.content }}
